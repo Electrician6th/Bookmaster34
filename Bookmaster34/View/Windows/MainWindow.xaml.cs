@@ -23,7 +23,7 @@ namespace Bookmaster34
 
         private void CloseAppMi_Click(object sender, RoutedEventArgs e)
         {
-            this.Close();
+            Close();
         }
 
         private void LogoutMi_Click(object sender, RoutedEventArgs e)
